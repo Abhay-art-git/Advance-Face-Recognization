@@ -51,3 +51,30 @@ This project demonstrates how artificial intelligence can be used to build real-
 4. **Matching:** Compare with known dataset embeddings.  
 5. **Output:** Display recognized names and confidence scores.
 
+
+
+---
+
+## ⚙️ Technologies Used
+
+| Component | Tool/Library |
+|------------|---------------|
+| Programming | Python |
+| Computer Vision | OpenCV |
+| Face Detection | Haar Cascade / Dlib / MTCNN |
+| Feature Embeddings | FaceNet / DeepFace / ResNet-50 |
+| Machine Learning | scikit-learn |
+| Data Handling | NumPy, Pandas |
+| Web/App Interface (optional) | Streamlit / Flask |
+| Database | SQLite / JSON |
+| Deployment | Local / Edge Devices / AWS |
+
+---
+
+## 🧰 Installation & Setup
+
+### 🔹 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/face-recognition-system.git
+cd face-recognition-system
+
